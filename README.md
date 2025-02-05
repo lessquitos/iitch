@@ -8,4 +8,4 @@ For details about each of the tools and how to use them, please see the READMEs 
 
 # History
 
-This code was initially published while Debug[link] was a Verily project.  Debug is no longer part of Verily, and questions regarding this code may be sent to press@debugproject.com.
+This code was initially published while [Debug](https://debug.com/) was a [Verily](https://verily.com/) project.  Debug is no longer part of Verily, and questions regarding this code may be sent to press@debugproject.com.
